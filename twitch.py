@@ -1,7 +1,7 @@
 import concurrent.futures, time, random, os
 
 #desired channel url
-channel_url = 'https://www.twitch.tv/xandon032'
+channel_url = 'https://www.twitch.tv/*****'
 #number of viewer bots
 botcount = 200
 #path to proxies.txt file
